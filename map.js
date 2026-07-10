@@ -35,3 +35,4 @@ const info = users1.map(function (user1) {
   return user1.name + " (" + user1.age + ")";
 });
 console.log(info);
+
