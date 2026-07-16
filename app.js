@@ -1,3 +1,3 @@
-import { multiply } from "./math.js";
+import age, { name } from "./user.js";
 
-console.log(multiply(4, 5));
+console.log(name , age);
